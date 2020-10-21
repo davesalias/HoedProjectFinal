@@ -1,0 +1,70 @@
+Speel jij graag puzzel games?
+Ja, ik speel graag strategie games met puzzel mechanieken.
+Ja, ik speel graag puzzel games waarbij ik gereedschap moet gebruiken.
+Ja, ik speel graag complexe puzzel games waarbij ik iets moet bouwen.
+Ja, ik speel graag games waarbij ik slim moet sluipen.
+Speel je vaak creatieve games?
+Absoluut
+Te veel
+Af en toe
+Soms
+Speel je liever singleplayer of co-op?
+Singleplayer
+Co-Op
+Hoe goed is jouw aanpassings vermogen?
+Als een stuk code niet werkt dan los ik dat gelijk op.
+Bij een probleem ga ik terug naar het tekenbord.
+Bij een probleem ga terug ik naar de kern.
+Bij een probleem kijk ik waardoor het komt en waar het vandaan komt.
+Word je enthousiast over het oplossen van complexe problemen?
+Ja, ik hou soms wel van een uitdaging.
+Ja, heel graag.
+Wel een beetje.
+Ja, ik doe niets liever.
+Dans je alleen als je alleen thuis bent of als je in gezelschap bent?
+Als ik alleen ben.
+Altijd in gezelschap.
+Hoe meer mensen, hoe beter.
+Dansen met een vertrouwde groep zeg ik geen nee tegen.
+Welk van de onderstaande film personages zou jij een biertje mee willen drinken?
+Iron Man
+R2D2
+Leonardo Dicaprio
+Mr.Robot
+Kies een film:
+The Matrix
+The social network
+Wolf of Wallstreet
+Sherlock holmes
+Bingewatch je Netflix of ga je liever naar de bios met vrienden?
+Bingewatchen
+Naar de bios
+Speel je liever een teamsport of een individuele sport?
+Individueel
+Teamsport
+Welk van de onderstaande kunstvormen spreekt jou het meest aan?
+Beeldend
+Grafisch
+Abstract
+Klassiek
+Waar let je op bij kunstwerken?
+Detail
+Emotionele waarde
+Patronen
+Achterliggende betekenissen
+Wat lijkt je de leukste manier om te experimenteren met verschillende soorten applicaties/software?
+Ik wil graag mijn eigen code schrijven en applicaties in elkaar zetten.
+Ik wil graag met al bestaande software werken.
+Ik wil graag met databases werken.
+Ik wil graag leren hacken.
+Wat voor soort ICT-er ben je? 
+Functioneel
+Sociaal
+Carriere
+Creatief
+Vind je het leuk om constant nieuwe dingen te leren?
+Ik ben constant bezig met nieuwe kennis tot me toe te nemen.
+Ik hou er vooral van om bestaande kennis opnieuw op verschillende manieren toe te passen.
+Als ik nieuwe dingen moet leren om mijn bedrijf verder te helpen, doe ik dat.
+Ik kan nieuwe technologieen snel tot me nemen, maar ben er niet zelf mee bezig om er naar te zoeken.
+
