@@ -33,94 +33,94 @@ layout_column_vraag15_2 = [[sg.Button(data[67], size=(30, 3)), sg.Button(data[68
 #     [sg.Text(data[0])],
 #     [sg.Button(data[1]), sg.Button(data[2]), sg.Button(data[3]), sg.Button(data[4])]]
 layout_column = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag1(1).png")],
     [sg.Text('Pagina 1 van de quiz')],
     [sg.Text(data[0])],
     [sg.Column(layout1)],
     [sg.Column(layout2)]]
 
 layout2 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag2(1).png")],
     [sg.Text('Pagina 2 van de quiz')],
     [sg.Text(data[5])],
     [sg.Button(data[6]), sg.Button(data[7]), sg.Button(data[8]), sg.Button(data[9])]]
 
 layout3 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag3(2).png")],
     [sg.Text('Pagina 3 van de quiz')],
     [sg.Text(data[10])],
     [sg.Button(data[11]), sg.Button(data[12])]]
 
 layout_column_vraag4 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag4(1).png")],
     [sg.Text('Pagina 4 van de quiz')],
     [sg.Text(data[13])],
     [sg.Column(layout_column_vraag4_1)],
     [sg.Column(layout_column_vraag4_2)]]
 
 layout5 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag5(1).png")],
     [sg.Text('Pagina 5 van de quiz')],
     [sg.Text(data[18])],
     [sg.Button(data[19]), sg.Button(data[20]), sg.Button(data[21]), sg.Button(data[22])]]
 
 layout6 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag6(1).png")],
     [sg.Text('Pagina 6 van de quiz')],
     [sg.Text(data[23])],
     [sg.Button(data[24]), sg.Button(data[25]), sg.Button(data[26]), sg.Button(data[27])]]
 
 layout7 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag7(1).png")],
     [sg.Text('Pagina 7 van de quiz')],
     [sg.Text(data[28])],
     [sg.Button(data[29]), sg.Button(data[30]), sg.Button(data[31]), sg.Button(data[32])]]
 
 layout8 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag8(1).png")],
     [sg.Text('Pagina 8 van de quiz')],
     [sg.Text(data[33])],
     [sg.Button(data[34]), sg.Button(data[35]), sg.Button(data[36]), sg.Button(data[37])]]
 
 layout9 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag9(1).png")],
     [sg.Text('Pagina 9 van de quiz')],
     [sg.Text(data[38])],
     [sg.Button(data[39]), sg.Button(data[40])]]
 
 layout10 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag10(1).png")],
     [sg.Text('Pagina 10 van de quiz')],
     [sg.Text(data[41])],
     [sg.Button(data[42]), sg.Button(data[43])]]
 
 layout11 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag11(1).png")],
     [sg.Text('Pagina 11 van de quiz')],
     [sg.Text(data[44])],
     [sg.Button(data[45]), sg.Button(data[46]), sg.Button(data[47]), sg.Button(data[48])]]
 
 layout12 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag12(1).png")],
     [sg.Text('Pagina 12 van de quiz')],
     [sg.Text(data[49])],
     [sg.Button(data[50]), sg.Button(data[51]), sg.Button(data[52]), sg.Button(data[53])]]
 
 layout13 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag13(1).png")],
     [sg.Text('Pagina 13 van de quiz')],
     [sg.Text(data[54])],
     [sg.Column(layout_column_vraag13_1)],
     [sg.Column(layout_column_vraag13_2)]]
 
 layout14 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag14(1).png")],
     [sg.Text('Pagina 14 van de quiz')],
     [sg.Text(data[59])],
     [sg.Button(data[60]), sg.Button(data[61]), sg.Button(data[62]), sg.Button(data[63])]]
 
 layout15 = [
-    [sg.Image("MinervaMcGonagall_PM_B1C7M2_HarryPotterBeingSortedInGreatHall_Moment(2).png")],
+    [sg.Image("vraag15(1).png")],
     [sg.Text('Pagina 15 van de quiz')],
     [sg.Text(data[64])],
     [sg.Column(layout_column_vraag15_1)],

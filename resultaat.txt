@@ -1,1 +1,1 @@
-SE is: 0, BDAM is : 6, FICT is :1, IAT is :6
+SE is: 6, BDAM is : 3, FICT is :2, IAT is :7
